@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "779215032248",
+    "project_id": "danenergymonitor",
+    "storage_bucket": "danenergymonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779215032248:android:8664ac9d8cb0d36051494d",
+        "android_client_info": {
+          "package_name": "com.example.EnergyMonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxLcQFS7yENUKPM0un1sDxQVzTtG1bnw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
